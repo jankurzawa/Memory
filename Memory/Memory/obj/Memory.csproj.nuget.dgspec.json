@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\repos\\Memory\\Memory\\Memory.csproj": {}
+    "C:\\repos\\Memory\\Memory\\Memory\\Memory.csproj": {}
   },
   "projects": {
-    "C:\\repos\\Memory\\Memory\\Memory.csproj": {
+    "C:\\repos\\Memory\\Memory\\Memory\\Memory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repos\\Memory\\Memory\\Memory.csproj",
+        "projectUniqueName": "C:\\repos\\Memory\\Memory\\Memory\\Memory.csproj",
         "projectName": "Memory",
-        "projectPath": "C:\\repos\\Memory\\Memory\\Memory.csproj",
+        "projectPath": "C:\\repos\\Memory\\Memory\\Memory\\Memory.csproj",
         "packagesPath": "C:\\Users\\ThinkCentre\\.nuget\\packages\\",
-        "outputPath": "C:\\repos\\Memory\\Memory\\obj\\",
+        "outputPath": "C:\\repos\\Memory\\Memory\\Memory\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ThinkCentre\\AppData\\Roaming\\NuGet\\NuGet.Config",
